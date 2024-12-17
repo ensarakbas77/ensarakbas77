@@ -1,4 +1,4 @@
-![MasterHead](https://c1.wallpaperflare.com/preview/307/653/149/code-editor-javascript-web-design.jpg)
+
 <h1 align="center">Hi 👋, I'm Ensar Akbaş</h1>
 <h3 align="center">I'm Information System Engineering student at Kocaeli University</h3>
 
